@@ -1,3 +1,4 @@
+index.php is the main webpage. 
 Before running the website, you need to run the newdb.sql file to create the EZGC database. If you cannot find the file then run this:
 
 create database EZGC;
